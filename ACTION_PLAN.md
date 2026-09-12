@@ -1,11 +1,13 @@
 # Habit Tracker — Action Plan
 
+
 ## Overview
 A web + mobile habit tracker with a streak counter and a GitHub-style contribution calendar (monthly + annual views). Roadmap spans three versions: core tracking (v1), auth/badges/public API (v2), and Android widget/admin analytics (v3).
 
 ---
 
 ## Version 1 — Core Product
+
 **Goal:** Ship a working single-user habit tracker.
 
 1. **Data model**
@@ -30,6 +32,7 @@ A web + mobile habit tracker with a streak counter and a GitHub-style contributi
 ---
 
 ## Version 2 — Auth, Dark Mode, Badges, Public API
+
 **Goal:** Multi-user support and a secure, embeddable activity API.
 
 1. **Authentication**
@@ -55,6 +58,7 @@ A web + mobile habit tracker with a streak counter and a GitHub-style contributi
 ---
 
 ## Version 3 — Android Widget + Admin Dashboard
+
 **Goal:** Extend reach (widget) and give operators visibility (admin analytics).
 
 1. **Lightweight "pending activity" endpoint**
